@@ -4,7 +4,14 @@ Colors Used
 #E4DCCF
 #EA5455
 #002B5B
+
 #5B002B
+#003366 (a darker shade of blue)
+#00539C (a slightly lighter shade of blue)
+#0077B5 (a medium shade of blue)
+#0099CC (a brighter shade of blue)
+#1D1D1D (a dark charcoal gray)
+#555555 (a medium gray)
 **/
 /** fonts
 Nunito body text  font-family: 'Nunito', sans-serif;
@@ -80,7 +87,7 @@ body {
   
   #nav-bar a:hover {
     text-decoration: underline;
-    color: #F9F5EB;
+    color: #00539C;
   }
   
   .nav-links {
@@ -92,7 +99,7 @@ body {
   }
   
   #current-page {
-    color: #F9F5EB;
+    color: #00539C;
     font-weight: bolder;
     text-decoration: underline;
   }
@@ -101,7 +108,6 @@ body {
   .middle-box {
     background-color: #F9F5EB;
     padding: 10px 8px 15px 8px;
-    montserrat sub headings font-family: 'Montserrat', sans-serif;
   }
   
   .middle-box p {
@@ -111,6 +117,7 @@ body {
   #summ-heading,
   .middle-box p {
     margin: 5px 15px;
+    font-family: 'Nunito', sans-serif;
   }
   
   .middle-box a {
@@ -173,7 +180,7 @@ body {
     margin-bottom: 15px;
   }
   
-  .middle-box .first-p {
+  middle-box .first-p {
     margin-top: 10px;
   }
   
@@ -210,12 +217,12 @@ body {
   #nav-bar-footer #current-page {
     font-weight: bolder;
     text-decoration: underline;
-    color: #F9F5EB;
+    color: #00539C;
   }
   
   #nav-bar-footer a:hover {
     text-decoration: underline;
-    color: #F9F5EB;
+    color: #00539C;
   }
   
   .fa-linkedin {
