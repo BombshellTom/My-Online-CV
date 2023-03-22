@@ -104,11 +104,6 @@ img {
   text-decoration: underline;
 }
 
-.skills-pic:hover {
-  content: url('assets/pics/tomband.png');
-}
-
-
 /** Index: Summary **/
 .middle-box {
   background-color: #F9F5EB;
