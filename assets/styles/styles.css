@@ -104,6 +104,11 @@ img {
   text-decoration: underline;
 }
 
+.skills-pic:hover {
+  content: url('assets/pics/tomband.png');
+}
+
+
 /** Index: Summary **/
 .middle-box {
   background-color: #F9F5EB;
@@ -185,7 +190,7 @@ middle-box .first-p {
 }
 
 #work-h2 {
-  margin: 8px 0;
+  margin: 8px 15px;
   font-family: 'Nunito', sans-serif;
 }
 
