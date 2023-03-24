@@ -228,9 +228,13 @@ h4 {
 #nav-bar-footer a {
   text-decoration: none;
   color: #002B5B;
-  margin: 0 10px;
+  margin: 0 10px 10px 0;;
   align-self: flex-start;
   font-weight: bold;
+}
+
+footer p {
+  margin: 12px auto 8px auto;
 }
 
 #nav-bar-footer #current-page {
