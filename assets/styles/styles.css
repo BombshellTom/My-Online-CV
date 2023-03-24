@@ -260,3 +260,31 @@ footer a:hover,
 footer .fa-linkedin:hover {
   font-weight: bolder;
 }
+
+
+/** For ipad style sreens - anything above 600px wide **/
+
+@media screen and (min-width: 600px) {
+ 
+#top-box {
+  font-size: 200%;
+  padding: 0 10%;
+}
+
+#photo-container img {
+  width: 200px;
+  height: 200px;
+}
+
+.middle-box {
+  padding: 20px 10%; 
+  font-size: 180%;
+}
+
+#footer {
+  font-size: 180%;
+  height: 120px;
+}
+
+
+}
